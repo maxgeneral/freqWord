@@ -1,2 +1,1 @@
-# freqWord
-c# project
+# Описание проекта
